@@ -17,4 +17,7 @@ from Implementaion import *
 #print(Imple_ex2.solution())
 
 # 왕실의 나이트
-print(Imple_1.solution())
+#print(Imple_1.solution())
+
+#게임 개발
+print(Imple_2.solution());

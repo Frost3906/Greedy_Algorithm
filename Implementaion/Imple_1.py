@@ -3,6 +3,8 @@
 # 8 * 8
 #My solution
 # It works, but like a bullshit
+# How Can I fix the 'append shit code' better?
+# Hint => The appending work is patterned. Can I use this? 
 def solution() :
   answer = 0
   alph_list = ['a','b','c','d','e','f','g','h']
